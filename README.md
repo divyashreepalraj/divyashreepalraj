@@ -35,37 +35,6 @@ I specialize in:
 ---
 
 <!-- ========================================= -->
-<!--             WHAT I BUILD                  -->
-<!-- ========================================= -->
-
-## ⚡ What I Build
-
-### Modern Frontend Applications
-
-- React.js applications
-- Component-based architecture
-- Interactive dashboard interfaces
-- API-driven UI components
-- Responsive and mobile-friendly layouts
-
-### UI Systems & Interfaces
-
-- Reusable component libraries
-- Scalable design systems
-- Dashboard UI components
-- Data-heavy interface layouts
-- Usability-focused UI improvements
-
-### UI/UX Design Foundations
-
-- Figma interface design
-- Wireframing and prototyping
-- Design system creation
-- User-focused interface design
-
----
-
-<!-- ========================================= -->
 <!--             PROJECTS                      -->
 <!-- ========================================= -->
 
