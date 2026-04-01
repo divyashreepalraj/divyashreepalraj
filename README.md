@@ -3,14 +3,14 @@
 <!-- ========================================= -->
 
 <h1 align="center">Divya Shree P</h1>
-<h3 align="center">Frontend Developer • React Developer • UI/UX Designer</h3>
+<h3 align="center">Frontend Developer • React Developer • UI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=2563EB&center=true&vCenter=true&width=900&lines=Building+Modern+React+Interfaces;Designing+Clean+User+Experiences;Transforming+Figma+Designs+Into+Code;Creating+Responsive+Web+Applications;Frontend+Engineering+with+React" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=2563EB&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+React+Developer;Building+Modern+Web+Interfaces;Turning+Designs+Into+Scalable+Code;Creating+Responsive+Web+Applications;UI+Engineering+With+React" />
 </p>
 
 <p align="center">
-  Crafting modern, scalable user interfaces with a strong foundation in UI/UX design and frontend engineering.
+  Frontend developer focused on building modern, responsive web interfaces using React and JavaScript.
 </p>
 
 ---
@@ -21,16 +21,16 @@
 
 ## 👩‍💻 About Me
 
-I am a **Frontend Developer with a UI/UX design background** and 3+ years of experience building user-focused web interfaces.
+I am a **Frontend Developer with 3+ years of experience** designing and implementing responsive web interfaces.
 
-My work focuses on:
+My background in **UI/UX design combined with frontend development** allows me to bridge the gap between design and engineering — transforming design systems into scalable, maintainable code.
 
-- Building modern **React-based web applications**
-- Converting **Figma designs into scalable frontend components**
-- Creating **clean, responsive, and accessible user interfaces**
-- Designing **reusable UI systems and component libraries**
+I specialize in:
 
-My design background helps me bridge the gap between **design and development** to deliver high-quality user experiences.
+- Building **React-based web applications**
+- Creating **reusable UI components**
+- Developing **responsive layouts**
+- Translating **Figma designs into production-ready interfaces**
 
 ---
 
@@ -40,49 +40,69 @@ My design background helps me bridge the gap between **design and development** 
 
 ## ⚡ What I Build
 
-### 🔹 Modern Frontend Applications
+### Modern Frontend Applications
 
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Responsive Web Design
+- React.js applications
+- Component-based architecture
+- Interactive dashboard interfaces
+- API-driven UI components
+- Responsive and mobile-friendly layouts
+
+### UI Systems & Interfaces
+
+- Reusable component libraries
+- Scalable design systems
+- Dashboard UI components
+- Data-heavy interface layouts
+- Usability-focused UI improvements
+
+### UI/UX Design Foundations
+
+- Figma interface design
+- Wireframing and prototyping
+- Design system creation
+- User-focused interface design
+
+---
+
+<!-- ========================================= -->
+<!--             PROJECTS                      -->
+<!-- ========================================= -->
+
+## 🚀 Featured Projects
+
+### React Task Manager
+A task management web application built using React.
+
+Features:
+- CRUD operations
+- React Hooks (useState, useEffect)
+- Responsive UI layout
 - Component-based architecture
 
 ---
 
-### 🔹 UI Systems & Interfaces
+### React Portfolio Website
+Personal portfolio website built with React.
 
-- Design Systems
-- Reusable UI Components
-- Dashboard Interfaces
-- Data-heavy UI layouts
-- UX-focused design improvements
-
----
-
-### 🔹 UI/UX Design
-
-- Figma
-- Adobe XD
-- Wireframing
-- Prototyping
-- Design Systems
-- Usability-focused interfaces
+Features:
+- Reusable components
+- Responsive layout
+- Clean UI structure
+- Modern frontend design
 
 ---
 
-### 🔹 Developer Workflow
+### Dashboard UI Components
+Reusable UI components for dashboard interfaces.
 
-- Git & GitHub
-- Agile / Scrum
-- Jira
-- Developer Handoff
-- UI Specifications
+Includes:
+- Cards
+- Tables
+- Form components
+- Layout systems
 
 ---
-
-
 
 <!-- ========================================= -->
 <!--             TECH STACK                    -->
@@ -95,7 +115,7 @@ My design background helps me bridge the gap between **design and development** 
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
 
-### UI/UX Design
+### UI / UX Design
 <p>
   <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator" />
 </p>
@@ -114,10 +134,10 @@ My design background helps me bridge the gap between **design and development** 
 ## 🔥 Currently Learning
 
 - Advanced React patterns
-- Component architecture
+- Scalable component architecture
 - Frontend performance optimization
 - Modern UI animations
-- Scalable design systems
+- Building design systems for large applications
 
 ---
 
@@ -125,7 +145,7 @@ My design background helps me bridge the gap between **design and development** 
 <!--             GITHUB STATS                  -->
 <!-- ========================================= -->
 
-## 📈 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyashreepalraj&theme=tokyonight&hide_border=true" />
@@ -158,5 +178,5 @@ My design background helps me bridge the gap between **design and development** 
 ---
 
 <p align="center">
-  <strong>Designing and building user interfaces that are clean, scalable, and user-focused.</strong>
+  <strong>Building scalable frontend interfaces with React and modern web technologies.</strong>
 </p>
